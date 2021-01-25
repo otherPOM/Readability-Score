@@ -16,3 +16,5 @@ You should also print how many characters, words, and sentences the text has.
 The number of characters is any visible symbol (so, in the real text it's everything except space, newline "\n" and tab "\t").
 Notice, that the text can contain multiple lines, not just a single line like in the previous stages. You should analyze all the lines.
 
+## Stage 4
+In this stage, you should implement various other scientific approaches to calculate a readability score.
